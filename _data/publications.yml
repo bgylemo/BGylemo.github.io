@@ -1,4 +1,4 @@
-main:
+wmb:
 
   - title: Brain-wide Correspondence Between Neuronal Epigenomics and Long-Distance Projections
     authors: <strong>Zhou, Jingtian*</strong>; Zhang, Zhuzhu*; Wu, May; Liu, Hanqing; Pang, Yan; ...; Ecker, Joseph R.; Callaway, Edward M.
@@ -23,6 +23,8 @@ main:
     journal: <strong>Nature</strong>, 2021.
     url: https://www.nature.com/articles/s41586-021-03950-0
 
+hic:
+
   - title: Epigenomic complexity of the human brain revealed by single-cell DNA methylomes and 3D genome structures
     authors: Tian, Wei*; <strong>Zhou, Jingtian*</strong>; Bartlett, Anna; Zeng, Qiurui; Liu, Hanqing; ...; Ecker, Joseph R.
     url: http://biorxiv.org/lookup/doi/10.1101/2022.11.30.518285
@@ -40,6 +42,8 @@ main:
     authors: <strong>Zhou, Jingtian*</strong>; Ma, Jianzhu*; Chen, Yusi*; Cheng, Chuankai; Bao, Bokan; ...; Ecker, Joseph R.
     journal: <strong>Proceedings of the National Academy of Sciences</strong>, 2019.
     url: https://pnas.org/doi/full/10.1073/pnas.1901423116
+
+old:
 
   - title: A network integration approach for drug-target interaction prediction and computational drug repositioning from heterogeneous information
     authors: Luo, Yunan*; Zhao, Xinbin*; <strong>Zhou, Jingtian*</strong>; Yang, Jinglin; Zhang, Yanqing; Kuang, Wenhua; Peng, Jian; Chen, Ligong; Zeng, Jianyang
