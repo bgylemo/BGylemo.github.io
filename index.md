@@ -10,8 +10,9 @@ I received my B.S. from Tsinghua University and my Ph.D. through the Bioinformat
 
 ## Research Interests
 
-- **Single Cell Genomics:** image recognition, image generation, video captioning
-- **Sequence to Phenotype:** meta-learning, incremental learning, transfer learning
+- **Single Cell Genomics**
+- **Sequence to Phenotype**
+- **Gene Regulation in Development**
 
 ## News
 
