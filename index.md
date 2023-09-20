@@ -14,9 +14,7 @@ I received my B.S. from Tsinghua University and my Ph.D. through the Bioinformat
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Sep. 2023]** I will join the Arc Institute as a Science Fellow in January 2024!
+- **[Sep. 2023]** Our paper about adult human brain atlas is accepted to Science.
 
 {% include_relative _includes/publications.md %}
