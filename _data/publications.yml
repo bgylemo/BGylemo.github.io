@@ -4,6 +4,7 @@ wmb:
     authors: <strong>Zhou, Jingtian*</strong>; Zhang, Zhuzhu*; Wu, May; Liu, Hanqing; Pang, Yan; ...; Ecker, Joseph R.&; Callaway, Edward M.&
     journal: <strong>Biorxiv</strong>, 2023.
     url: http://biorxiv.org/lookup/doi/10.1101/2023.05.01.538832
+    data: https://www.ncbi.xyz/geo/query/acc.cgi?acc=GSE230782
 
   - title: Single-cell DNA Methylome and 3D Multi-omic Atlas of the Adult Mouse Brain
     authors: Liu, Hanqing; Zeng, Qiurui; <strong>Zhou, Jingtian</strong>; Bartlett, Anna; Wang, Bang-An; ...; Ecker, Joseph R&
@@ -19,6 +20,7 @@ wmb:
     authors: Liu, Hanqing*; <strong>Zhou, Jingtian*</strong>; Tian, Wei; Luo, Chongyuan; Bartlett, Anna; ...; Ecker, Joseph R.&
     journal: <strong>Nature</strong>, 2021.
     url: https://www.nature.com/articles/s41586-020-03182-8
+    browser: http://neomorph.salk.edu/omb
 
   - title: A multimodal cell census and atlas of the mammalian primary motor cortex
     authors: BRAIN Initiative Cell Census Network (BICCN)
