@@ -1,6 +1,6 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
-<h3 id="wmb" style="margin: 25px 0px 25px;">Whole Mouse Brain</h3>
+<h3 id="wmb" style="margin: 40px 0px 10px;">Whole Mouse Brain</h3>
 
 Single-cell DNA methylation and multi-modality integrative atlas of whole mouse brain and association with neuronal connectivity.  
 
@@ -48,7 +48,7 @@ Single-cell DNA methylation and multi-modality integrative atlas of whole mouse 
 </div>
 
 
-<h3 id="hic" style="margin: 25px 0px 25px;">3D Genome Structure</h3>
+<h3 id="hic" style="margin: 40px 0px 10px;">3D Genome Structure</h3>
 
 Experimental technologies, computational tools, and large dataset analyses of single-cell 3D genome.  
 
@@ -96,7 +96,7 @@ Experimental technologies, computational tools, and large dataset analyses of si
 </div>
 
 
-<h3 id="old" style="margin: 25px 0px 25px;">Undergraduate Work</h3>
+<h3 id="old" style="margin: 40px 0px 10px;">Undergraduate Work</h3>
 
 Network analyses and deep learning frameworks for modeling gene regulation.  
 
