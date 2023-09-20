@@ -1,20 +1,20 @@
 main:
 
   - title: Brain-wide Correspondence Between Neuronal Epigenomics and Long-Distance Projections
-    authors: </strong>Zhou, Jingtian*</strong>; Zhang, Zhuzhu*; Wu, May; Liu, Hanqing; Pang, Yan; ...; Ecker, Joseph R.; Callaway, Edward M.
+    authors: </strong>Zhou, Jingtian*<strong>; Zhang, Zhuzhu*; Wu, May; Liu, Hanqing; Pang, Yan; ...; Ecker, Joseph R.; Callaway, Edward M.
     url: http://biorxiv.org/lookup/doi/10.1101/2023.05.01.538832
 
   - title: Single-cell DNA Methylome and 3D Multi-omic Atlas of the Adult Mouse Brain
-    authors: Liu, Hanqing; Zeng, Qiurui; </strong>Zhou, Jingtian</strong>; Bartlett, Anna; Wang, Bang-An; ...; Ecker, Joseph R
+    authors: Liu, Hanqing; Zeng, Qiurui; <strong>Zhou, Jingtian</strong>; Bartlett, Anna; Wang, Bang-An; ...; Ecker, Joseph R
     url: http://biorxiv.org/lookup/doi/10.1101/2023.04.16.536509
 
   - title: Epigenomic diversity of cortical projection neurons in the mouse brain
-    authors: Zhang, Zhuzhu*; </strong>Zhou, Jingtian*</strong>; Tan, Pengcheng; Pang, Yan; Rivkin, Angeline C.; ...; Ecker, Joseph R.; Callaway, Edward M.
+    authors: Zhang, Zhuzhu*; <strong>Zhou, Jingtian*</strong>; Tan, Pengcheng; Pang, Yan; Rivkin, Angeline C.; ...; Ecker, Joseph R.; Callaway, Edward M.
     journal: <strong>Nature</strong>, 2021.
     url: https://www.nature.com/articles/s41586-021-03223-w
 
   - title: DNA methylation atlas of the mouse brain at single-cell resolution
-    authors: Liu, Hanqing*; </strong>Zhou, Jingtian*</strong>; Tian, Wei; Luo, Chongyuan; Bartlett, Anna; ...; Ecker, Joseph R.
+    authors: Liu, Hanqing*; <strong>Zhou, Jingtian*</strong>; Tian, Wei; Luo, Chongyuan; Bartlett, Anna; ...; Ecker, Joseph R.
     journal: <strong>Nature</strong>, 2021.
     url: https://www.nature.com/articles/s41586-020-03182-8
 
@@ -24,34 +24,34 @@ main:
     url: https://www.nature.com/articles/s41586-021-03950-0
 
   - title: Epigenomic complexity of the human brain revealed by single-cell DNA methylomes and 3D genome structures
-    authors: Tian, Wei*; </strong>Zhou, Jingtian*</strong>; Bartlett, Anna; Zeng, Qiurui; Liu, Hanqing; ...; Ecker, Joseph R.
+    authors: Tian, Wei*; <strong>Zhou, Jingtian*</strong>; Bartlett, Anna; Zeng, Qiurui; Liu, Hanqing; ...; Ecker, Joseph R.
     url: http://biorxiv.org/lookup/doi/10.1101/2022.11.30.518285
 
   - title: Epigenomic and chromosomal architectural reconfiguration in developing human frontal cortex and hippocampus
-    authors: Heffel, Matthew G.*; </strong>Zhou, Jingtian*</strong>; Zhang, Yi*; Lee, Dong-Sung*; Hou, Kangcheng*; ...; Paredes, Mercedes F.; Luo, Chongyuan
+    authors: Heffel, Matthew G.*; <strong>Zhou, Jingtian*</strong>; Zhang, Yi*; Lee, Dong-Sung*; Hou, Kangcheng*; ...; Paredes, Mercedes F.; Luo, Chongyuan
     url: http://biorxiv.org/lookup/doi/10.1101/2022.10.07.511350
 
   - title: Simultaneous profiling of 3D genome structure and DNA methylation in single human cells
-    authors: Lee, Dong-Sung*; Luo, Chongyuan*; </strong>Zhou, Jingtian*</strong>; Chandran, Sahaana; Rivkin, Angeline; ...; Dixon, Jesse R.; Ecker, Joseph R.
+    authors: Lee, Dong-Sung*; Luo, Chongyuan*; <strong>Zhou, Jingtian*</strong>; Chandran, Sahaana; Rivkin, Angeline; ...; Dixon, Jesse R.; Ecker, Joseph R.
     journal: <strong>Nature Methods</strong>, 2019.
     url: https://www.nature.com/articles/s41592-019-0547-z
 
   - title: Robust single-cell Hi-C clustering by convolution- and random-walk–based imputation
-    authors: </strong>Zhou, Jingtian*</strong>; Ma, Jianzhu*; Chen, Yusi*; Cheng, Chuankai; Bao, Bokan; ...; Ecker, Joseph R.
+    authors: <strong>Zhou, Jingtian*</strong>; Ma, Jianzhu*; Chen, Yusi*; Cheng, Chuankai; Bao, Bokan; ...; Ecker, Joseph R.
     journal: <strong>Proceedings of the National Academy of Sciences</strong>, 2019.
     url: https://pnas.org/doi/full/10.1073/pnas.1901423116
 
   - title: A network integration approach for drug-target interaction prediction and computational drug repositioning from heterogeneous information
-    authors: Luo, Yunan*; Zhao, Xinbin*; </strong>Zhou, Jingtian*</strong>; Yang, Jinglin; Zhang, Yanqing; Kuang, Wenhua; Peng, Jian; Chen, Ligong; Zeng, Jianyang
+    authors: Luo, Yunan*; Zhao, Xinbin*; <strong>Zhou, Jingtian*</strong>; Yang, Jinglin; Zhang, Yanqing; Kuang, Wenhua; Peng, Jian; Chen, Ligong; Zeng, Jianyang
     journal: <strong>Nature Communications</strong>, 2017.
     url: https://www.nature.com/articles/s41467-017-00680-8
 
   - title: Analysis of Ribosome Stalling and Translation Elongation Dynamics by Deep Learning
-    authors: Zhang, Sai*; Hu, Hailin*; </strong>Zhou, Jingtian*</strong>; He, Xuan; Jiang, Tao; Zeng, Jianyang
+    authors: Zhang, Sai*; Hu, Hailin*; <strong>Zhou, Jingtian*</strong>; He, Xuan; Jiang, Tao; Zeng, Jianyang
     journal: <strong>Cell Systems</strong>, 2017.
     url: https://linkinghub.elsevier.com/retrieve/pii/S240547121730337X
 
   - title: A deep learning framework for modeling structural features of RNA-binding protein targets
-    authors: Zhang, Sai; </strong>Zhou, Jingtian*</strong>; Hu, Hailin*; Gong, Haipeng; Chen, Ligong; Cheng, Chao; Zeng, Jianyang
+    authors: Zhang, Sai; <strong>Zhou, Jingtian*</strong>; Hu, Hailin*; Gong, Haipeng; Chen, Ligong; Cheng, Chao; Zeng, Jianyang
     journal: <strong>Nucleic Acids Research</strong>, 2016.
     url: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkv1025
