@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Key Publications</h2>
 
 <h3 id="wmb" style="margin: 40px 0px 10px;">Whole Mouse Brain</h3>
 
