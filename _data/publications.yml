@@ -10,17 +10,17 @@ main:
 
   - title: Epigenomic diversity of cortical projection neurons in the mouse brain
     authors: Zhang, Zhuzhu*; </strong>Zhou, Jingtian*</strong>; Tan, Pengcheng; Pang, Yan; Rivkin, Angeline C.; ...; Ecker, Joseph R.; Callaway, Edward M.
-    journal: <strong>Nature</strong>, 2017.
+    journal: <strong>Nature</strong>, 2021.
     url: https://www.nature.com/articles/s41586-021-03223-w
 
   - title: DNA methylation atlas of the mouse brain at single-cell resolution
     authors: Liu, Hanqing*; </strong>Zhou, Jingtian*</strong>; Tian, Wei; Luo, Chongyuan; Bartlett, Anna; ...; Ecker, Joseph R.
-    journal: <strong>Nature</strong>, 2017.
+    journal: <strong>Nature</strong>, 2021.
     url: https://www.nature.com/articles/s41586-020-03182-8
 
   - title: A multimodal cell census and atlas of the mammalian primary motor cortex
     authors: BRAIN Initiative Cell Census Network (BICCN)
-    journal: <strong>Nature</strong>, 2017.
+    journal: <strong>Nature</strong>, 2021.
     url: https://www.nature.com/articles/s41586-021-03950-0
 
   - title: Epigenomic complexity of the human brain revealed by single-cell DNA methylomes and 3D genome structures
@@ -33,12 +33,12 @@ main:
 
   - title: Simultaneous profiling of 3D genome structure and DNA methylation in single human cells
     authors: Lee, Dong-Sung*; Luo, Chongyuan*; </strong>Zhou, Jingtian*</strong>; Chandran, Sahaana; Rivkin, Angeline; ...; Dixon, Jesse R.; Ecker, Joseph R.
-    journal: <strong>Nature Methods</strong>, 2017.
+    journal: <strong>Nature Methods</strong>, 2019.
     url: https://www.nature.com/articles/s41592-019-0547-z
 
   - title: Robust single-cell Hi-C clustering by convolution- and random-walk–based imputation
     authors: </strong>Zhou, Jingtian*</strong>; Ma, Jianzhu*; Chen, Yusi*; Cheng, Chuankai; Bao, Bokan; ...; Ecker, Joseph R.
-    journal: <strong>Proceedings of the National Academy of Sciences</strong>, 2017.
+    journal: <strong>Proceedings of the National Academy of Sciences</strong>, 2019.
     url: https://pnas.org/doi/full/10.1073/pnas.1901423116
 
   - title: A network integration approach for drug-target interaction prediction and computational drug repositioning from heterogeneous information
