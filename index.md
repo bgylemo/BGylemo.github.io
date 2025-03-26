@@ -11,14 +11,12 @@ My research focuses on exploring how the inactive X-chromosome is regulated duri
 
 ## Research Interests
 
-- **Single Cell Genomics**
-- **Sequence to Phenotype**
-- **Gene Regulation in Development**
+- **X-chromosome inactivation**
+- **Single cell technologies**
 
 ## News
 
-- **[Dec. 2023]** Our paper linking molecular cell types with neural projections across the whole mouse brain is published in Nature!
-- **[Dec. 2023]** Our paper about whole mouse brain DNA methylation and 3D genome atlas is published in Nature!
-- **[Oct. 2023]** Our paper about adult human brain DNA methylation and 3D genome atlas is published in Science!
+- **[Dec. 2024]** Our paper investigating X-inactivation in human T cell development is published in Nature Communications!
+- **[Jan. 2025]** Our paper about escape from XCI across multiple tissues within the same individuals is published in eLife!
 
 {% include_relative _includes/publications.md %}
