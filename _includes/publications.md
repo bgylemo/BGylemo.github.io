@@ -1,8 +1,8 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Key Publications</h2>
 
-<h3 id="wmb" style="margin: 40px 0px 10px;">Whole Mouse Brain</h3>
+<h3 id="wmb" style="margin: 40px 0px 10px;">First author papers</h3>
 
-Single-cell DNA methylation and multi-modality integrative atlas of whole mouse brain and association with neuronal connectivity.  
+X-chromosome inactivation papers, first in T cell development and then across tissues within the same individual.  
 
 <div class="publications">
 <ol class="bibliography">
