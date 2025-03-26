@@ -1,30 +1,28 @@
 # Basic Information 
-title: Jingtian Zhou
-position: Science Fellow
-affiliation: Zhou Lab @ Arc Institute
-email: jingtian.zhou (at) arcinstitute.org
+title: Björn Gylemo
+position: PhD Student
+affiliation: Colm Nestor Lab @ Linköping University
+email: bjorn.gylemo (at) gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Jingtian Zhou
-description: Personal homepage for Jingtian Zhou.
-canonical: https://zhoujt1994.github.io/aboutme/
+keywords: Björn Gylemo
+description: Personal homepage for Björn Gylemo.
+canonical: https://bgylemo.github.io/aboutme/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?hl=en&user=qi00ld8AAAAJ&view_op=list_works&sortby=pubdate
-cv_link: assets/files/CV_Sep2023.pdf
-github_link: https://github.com/zhoujt1994/
-linkedin: https://www.linkedin.com/in/jingtian-zhou-29785bb5
-twitter: https://twitter.com/zhou_jingtian
+github_link: https://github.com/bgylemo/
+linkedin: https://www.linkedin.com/in/bjorn-gylemo/
+twitter: https://twitter.com/BGylemo
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/headshot_Jingtian.jpg
+avatar: ./assets/img/cropped.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: true
+enable_footnote: false
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
