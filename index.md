@@ -4,14 +4,15 @@ layout: homepage
 
 ## About Me
 
-I'm currently pursuing a PhD in [Colm Nestors group](https://liu.se/en/research/epigenetic-control-of-human-t-cell-biology) at Linköping University, Linköping, Sweden.
+I'm currently pursuing a PhD in [Colm Nestor's group](https://liu.se/en/research/epigenetic-control-of-human-t-cell-biology) at Linköping University, Linköping, Sweden.
   
-I received my B.S. in medical laboratory science and my MSc in medical biology at Linköping University, Sweden. My research focuses on exploring how the inactive X-chromosome is regulated during human T cell development through integrative analyses of multimodality data, including single-cell and bulk allele-specific expression, DNA methylation and sex-biased gene expression. Furthemrore, I have studied variability of escape from X-chromosome inactivation (XCI) across tissue within the same individual. My current work mainly concern skewed XCI and its origin.
+I received my B.S. in medical laboratory science and my MSc in medical biology at Linköping University, Sweden. My research focuses on the inactive X-chromosome (Xi), where I've looked at how the Xi is regulated during human T cell development via integrative data analysis of single-cell, bulk allele-specific expression, DNA methylation and sex-biased gene expression. I have also studied variability of escape from X-chromosome inactivation across tissue within the same individual. My current work mainly concern skewed XCI and its origin where I primarily work with long read sequencing (nanopore) and scRNA-seq (smart-seq2). I am very interested in broadening both my skills in data analysis/bioinfo but also within the field of biology.
 
 ## Research Interests
 
 - **X-chromosome inactivation**
 - **Single cell technologies**
+- **Long-read sequencing**
 
 ## News
 
